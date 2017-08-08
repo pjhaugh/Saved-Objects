@@ -1,0 +1,3774 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "PlayerTurn": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": -1.98525774,
+        "posY": 1.44150221,
+        "posZ": 3.04742241,
+        "rotX": -3.56052224E-05,
+        "rotY": 88.921196,
+        "rotZ": 179.999908,
+        "scaleX": 0.968211353,
+        "scaleY": 1.0,
+        "scaleZ": 0.968211353
+      },
+      "Nickname": "",
+      "Description": "",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "SidewaysCard": true,
+      "DeckIDs": [
+        100,
+        168,
+        167,
+        166,
+        165,
+        164,
+        163,
+        162,
+        161,
+        160,
+        159,
+        158,
+        157,
+        156,
+        155,
+        154,
+        153,
+        152,
+        151,
+        150,
+        149,
+        148,
+        147,
+        146,
+        145,
+        144,
+        143,
+        142,
+        141,
+        140,
+        139,
+        138,
+        137,
+        136,
+        135,
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        127,
+        126,
+        125,
+        124,
+        123,
+        122,
+        121,
+        120,
+        119,
+        118,
+        117,
+        116,
+        115,
+        114,
+        113,
+        112,
+        111,
+        110,
+        109,
+        108,
+        107,
+        106,
+        105,
+        104,
+        103,
+        102,
+        101,
+        268,
+        263,
+        559,
+        260,
+        500,
+        562,
+        267,
+        261,
+        265,
+        556,
+        553,
+        558,
+        555,
+        554,
+        557,
+        266,
+        264
+      ],
+      "CustomDeck": {
+        "1": {
+          "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+          "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+          "NumWidth": 10,
+          "NumHeight": 7,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        },
+        "2": {
+          "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+          "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+          "NumWidth": 10,
+          "NumHeight": 7,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        },
+        "5": {
+          "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+          "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+          "NumWidth": 10,
+          "NumHeight": 7,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.59131676,
+            "posY": 1.031635,
+            "posZ": -0.738444448,
+            "rotX": 0.00353559223,
+            "rotY": 90.00008,
+            "rotZ": 0.00114994915,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Academy at Tolaria West",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 100,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4ed752"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.247902364,
+            "posY": 1.16986477,
+            "posZ": -0.7801349,
+            "rotX": 0.00444788346,
+            "rotY": 89.99989,
+            "rotZ": -0.00435935846,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "The Æther Flues",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 168,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "681845"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.853706062,
+            "posY": 1.654712,
+            "posZ": -1.5898385,
+            "rotX": 356.088165,
+            "rotY": 59.3566246,
+            "rotZ": 329.926178,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Agyrem",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 167,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "af97ba"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.339624971,
+            "posY": 1.1804539,
+            "posZ": -0.7743844,
+            "rotX": 0.0001390439,
+            "rotY": 89.99989,
+            "rotZ": 0.002900069,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Bant",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 166,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a78f83"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.508261859,
+            "posY": 1.18151462,
+            "posZ": -0.6478901,
+            "rotX": -0.0008941132,
+            "rotY": 89.99988,
+            "rotZ": -0.00276789162,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Cliffside Market",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 165,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e24976"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.668889046,
+            "posY": 1.184116,
+            "posZ": -0.776019,
+            "rotX": -0.00217726338,
+            "rotY": 89.99981,
+            "rotZ": 359.9922,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "The Dark Barony",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 164,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6ab588"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -1.01700032,
+            "posY": 1.18720579,
+            "posZ": -0.445044458,
+            "rotX": 1.93829655E-05,
+            "rotY": 89.99999,
+            "rotZ": 5.625722E-06,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Eloren Wilds",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 163,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "edb694"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.7465763,
+            "posY": 1.19730961,
+            "posZ": -0.384565741,
+            "rotX": -8.644458E-05,
+            "rotY": 89.99967,
+            "rotZ": 359.938568,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "The Eon Fog",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 162,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "be694e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.556297,
+            "posY": 1.154203,
+            "posZ": -0.6653436,
+            "rotX": 0.000764389231,
+            "rotY": 90.00068,
+            "rotZ": 359.9664,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Feeding Grounds",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 161,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5d76e7"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.4191798,
+            "posY": 1.16281855,
+            "posZ": -0.3224736,
+            "rotX": 0.03818266,
+            "rotY": 90.00341,
+            "rotZ": 0.0536684766,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Fields of Summer",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 160,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7b4503"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.628305137,
+            "posY": 1.17241681,
+            "posZ": -0.31910193,
+            "rotX": 359.962341,
+            "rotY": 89.99982,
+            "rotZ": 0.0620838776,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "The Fourth Sphere",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 159,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "eb8414"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -0.7522385,
+            "posY": 1.18198562,
+            "posZ": -0.439751536,
+            "rotX": 0.00127660355,
+            "rotY": 89.99994,
+            "rotZ": -0.0030292673,
+            "scaleX": 0.968211353,
+            "scaleY": 1.0,
+            "scaleZ": 0.968211353
+          },
+          "Nickname": "Glimmervoid Basin",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 158,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "12747a"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.85771942,
+            "posY": 1.18814492,
+            "posZ": -0.7858415,
+            "rotX": 359.987671,
+            "rotY": 89.99308,
+            "rotZ": 0.0466585048,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Goldmeadow",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 157,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e6546c"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.50259733,
+            "posY": 1.19806278,
+            "posZ": -1.84212637,
+            "rotX": 359.975952,
+            "rotY": 89.97523,
+            "rotZ": 0.0211322922,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "The Great Forest",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 156,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "8e358e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.975916,
+            "posY": 1.20756912,
+            "posZ": -1.13422763,
+            "rotX": 359.985443,
+            "rotY": 89.8499756,
+            "rotZ": 0.07559394,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Grixis",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 155,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e3eb86"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.81374454,
+            "posY": 1.21728885,
+            "posZ": -1.13941956,
+            "rotX": 0.00194375,
+            "rotY": 90.00048,
+            "rotZ": 0.0143287331,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "The Hippodrome",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 154,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6dce0e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.10406256,
+            "posY": 1.22700334,
+            "posZ": -1.18114567,
+            "rotX": 359.9526,
+            "rotY": 90.14775,
+            "rotZ": 0.06760431,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Immersturm",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 153,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "065256"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.51660252,
+            "posY": 1.23662686,
+            "posZ": -1.81339872,
+            "rotX": 0.0032251284,
+            "rotY": 90.01557,
+            "rotZ": 0.0179332457,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Isle of Vesuva",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 152,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "316a78"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.104484,
+            "posY": 1.246224,
+            "posZ": -1.52504814,
+            "rotX": -0.0008377696,
+            "rotY": 90.0191,
+            "rotZ": 359.990356,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Izzet Steam Maze",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 151,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d84365"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.552966,
+            "posY": 1.25615251,
+            "posZ": -1.33349478,
+            "rotX": 359.994049,
+            "rotY": 89.9988861,
+            "rotZ": 0.00128216867,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Krosa",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 150,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6b49bb"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.80921125,
+            "posY": 1.26569271,
+            "posZ": -1.5330596,
+            "rotX": 359.989716,
+            "rotY": 89.90672,
+            "rotZ": 0.0697213262,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Lethe Lake",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 149,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "06ef7d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.31582355,
+            "posY": 1.27530944,
+            "posZ": -1.65052176,
+            "rotX": 359.9924,
+            "rotY": 90.03656,
+            "rotZ": 0.03334642,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Llanowar",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 148,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1feda1"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.25692558,
+            "posY": 1.28488374,
+            "posZ": -1.74404931,
+            "rotX": -0.00163592119,
+            "rotY": 89.98692,
+            "rotZ": 0.004790706,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "The Maelstrom",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 147,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fa52f1"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.26713133,
+            "posY": 1.29424977,
+            "posZ": -1.0708226,
+            "rotX": 359.967651,
+            "rotY": 89.97063,
+            "rotZ": 0.07274261,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Minamo",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 146,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f1c5ac"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.98943758,
+            "posY": 1.30444813,
+            "posZ": -1.235186,
+            "rotX": -0.00124729308,
+            "rotY": 89.97157,
+            "rotZ": 5.60501576E-05,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Murasa",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 145,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2fca98"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.1122613,
+            "posY": 1.31387281,
+            "posZ": -1.16803336,
+            "rotX": 359.991547,
+            "rotY": 89.98449,
+            "rotZ": 0.03184485,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Naar Isle",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 144,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "63e3ea"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.031964,
+            "posY": 1.3236227,
+            "posZ": -1.32708538,
+            "rotX": -0.000380642974,
+            "rotY": 90.02184,
+            "rotZ": 0.0606431365,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Naya",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 143,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "234a49"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.18322325,
+            "posY": 1.3329438,
+            "posZ": -0.8808813,
+            "rotX": 359.984558,
+            "rotY": 89.94673,
+            "rotZ": 0.0475724153,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Otaria",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 142,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5c7e5f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.190469,
+            "posY": 1.34292042,
+            "posZ": -1.26957941,
+            "rotX": 359.982544,
+            "rotY": 89.9210358,
+            "rotZ": 0.03600152,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Panopticon",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 141,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b3b710"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.349818,
+            "posY": 1.3525399,
+            "posZ": -1.75782084,
+            "rotX": 0.00431452645,
+            "rotY": 90.00344,
+            "rotZ": 0.006114625,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Pools of Becoming",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 140,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1c27bf"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.2346487,
+            "posY": 1.36218989,
+            "posZ": -1.58124554,
+            "rotX": 0.00374346576,
+            "rotY": 90.02067,
+            "rotZ": -0.00511763338,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Raven's Run",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 139,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1e35e4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.37213469,
+            "posY": 1.37127149,
+            "posZ": -0.5643292,
+            "rotX": 359.982544,
+            "rotY": 89.91341,
+            "rotZ": 0.0626314357,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Sanctum of Serra",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 138,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ef81d5"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.54977846,
+            "posY": 1.38150632,
+            "posZ": -1.33482349,
+            "rotX": 359.994171,
+            "rotY": 90.0140457,
+            "rotZ": 0.0209292341,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Sea of Sand",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 137,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "51e042"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.643056,
+            "posY": 1.391154,
+            "posZ": -1.20681322,
+            "rotX": 359.961884,
+            "rotY": 89.88827,
+            "rotZ": 0.04373803,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Shiv",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 136,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "aab5cc"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.58821726,
+            "posY": 1.400802,
+            "posZ": -1.0019747,
+            "rotX": -0.0008715966,
+            "rotY": 89.99567,
+            "rotZ": 0.008226042,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Skybreen",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 135,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4fd542"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.54125834,
+            "posY": 1.41054428,
+            "posZ": -1.37037444,
+            "rotX": 0.00354897371,
+            "rotY": 89.9982452,
+            "rotZ": 0.041641105,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Sokenzan",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 134,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "37341d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.15180731,
+            "posY": 1.42014587,
+            "posZ": -1.425256,
+            "rotX": -0.0009030995,
+            "rotY": 90.03307,
+            "rotZ": -0.00314544025,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Stronghold Furnace",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 133,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "74297d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.42761946,
+            "posY": 1.42992222,
+            "posZ": -1.51416039,
+            "rotX": 0.00772503763,
+            "rotY": 89.89807,
+            "rotZ": 0.07371733,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Turri Island",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 132,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bc650e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.15030432,
+            "posY": 1.439688,
+            "posZ": -1.21392035,
+            "rotX": 0.00214783684,
+            "rotY": 89.99001,
+            "rotZ": 0.01295372,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Undercity Reaches",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 131,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f94fd2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.6663723,
+            "posY": 1.44822741,
+            "posZ": -0.567267954,
+            "rotX": 0.008207699,
+            "rotY": 89.87919,
+            "rotZ": 0.09993885,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Velis Vel",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 130,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d5dfc2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.62430525,
+            "posY": 1.45896828,
+            "posZ": -1.2230953,
+            "rotX": 359.993958,
+            "rotY": 90.00588,
+            "rotZ": 0.0184590258,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Tazeem",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 129,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "27d4e1"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.886833,
+            "posY": 1.46857059,
+            "posZ": -0.654142,
+            "rotX": -0.004771685,
+            "rotY": 89.99004,
+            "rotZ": 359.969757,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Celestine Reef",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 128,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "97996e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.72121,
+            "posY": 1.47811067,
+            "posZ": -1.02453649,
+            "rotX": 0.000416122173,
+            "rotY": 90.005,
+            "rotZ": 0.0006785291,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Horizon Boughs",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 127,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6dff62"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.15909863,
+            "posY": 1.48752558,
+            "posZ": -1.05875254,
+            "rotX": 359.985138,
+            "rotY": 90.04261,
+            "rotZ": 0.07113625,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Mirrored Depths",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 126,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e38502"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.92223072,
+            "posY": 1.49716568,
+            "posZ": -0.945768952,
+            "rotX": 0.008338444,
+            "rotY": 90.00142,
+            "rotZ": 0.0897883847,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Tember City",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 125,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c187ff"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.59268141,
+            "posY": 1.506783,
+            "posZ": -1.01167548,
+            "rotX": 359.95755,
+            "rotY": 90.1358948,
+            "rotZ": 0.123615526,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Chaotic Æther",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 124,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9e0c1c"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.27665663,
+            "posY": 1.5168432,
+            "posZ": -1.90379977,
+            "rotX": 359.9588,
+            "rotY": 90.0299454,
+            "rotZ": 359.9923,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Interplanar Tunnel",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 123,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "91ade2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.83290148,
+            "posY": 1.52620673,
+            "posZ": -0.933841646,
+            "rotX": 0.0003030513,
+            "rotY": 90.027504,
+            "rotZ": 0.05442451,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Morphic Tide",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 122,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "8c86e0"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.05053139,
+            "posY": 1.53606892,
+            "posZ": -1.19161642,
+            "rotX": 0.00738782,
+            "rotY": 89.93995,
+            "rotZ": 0.07054784,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Mutual Epiphany",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 121,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "97b19a"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.971458,
+            "posY": 1.54563272,
+            "posZ": -0.5819268,
+            "rotX": 359.992,
+            "rotY": 89.97576,
+            "rotZ": 359.994232,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Planewide Disaster",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 120,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6814b7"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.697924,
+            "posY": 1.55548739,
+            "posZ": -1.64931262,
+            "rotX": -0.00164489169,
+            "rotY": 89.97966,
+            "rotZ": 0.0327790938,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Reality Shaping",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 119,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ec8fd4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.9645505,
+            "posY": 1.56502628,
+            "posZ": -1.54813814,
+            "rotX": 359.992737,
+            "rotY": 90.02181,
+            "rotZ": 0.0329638757,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Spatial Merging",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 118,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e4f5c5"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.52707958,
+            "posY": 1.57473457,
+            "posZ": -1.35903525,
+            "rotX": 0.001188611,
+            "rotY": 89.99594,
+            "rotZ": 0.004647294,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Time Distortion",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 117,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a18ddc"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.52318239,
+            "posY": 1.58426821,
+            "posZ": -1.548365,
+            "rotX": 0.00532884849,
+            "rotY": 90.11937,
+            "rotZ": 359.910736,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Akoum",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 116,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1c1271"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.106253,
+            "posY": 1.5940479,
+            "posZ": -1.21440375,
+            "rotX": 0.000172587388,
+            "rotY": 90.02605,
+            "rotZ": -0.00169911841,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Aretopolis",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 115,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "661f9d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.88233042,
+            "posY": 1.60373044,
+            "posZ": -1.40792763,
+            "rotX": 359.992,
+            "rotY": 89.97458,
+            "rotZ": 0.044694785,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Astral Arena",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 114,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ba96a8"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.53152,
+            "posY": 1.613369,
+            "posZ": -1.31190324,
+            "rotX": -2.217602E-06,
+            "rotY": 90.0267639,
+            "rotZ": 0.00189696124,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Bloodhill Bastion",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 113,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1fab6c"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.50573349,
+            "posY": 1.6230154,
+            "posZ": -1.26401949,
+            "rotX": -0.002034165,
+            "rotY": 90.01171,
+            "rotZ": 0.0152218519,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Edge of Malacol",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 112,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2bb146"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.03666,
+            "posY": 1.63265264,
+            "posZ": -0.7701647,
+            "rotX": 0.000180455565,
+            "rotY": 90.02333,
+            "rotZ": 0.006189284,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Furnace Layer",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 111,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "eaee2e"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.990776,
+            "posY": 1.64218926,
+            "posZ": -1.39179194,
+            "rotX": 359.950867,
+            "rotY": 89.9579849,
+            "rotZ": 0.03282117,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Gavony",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 110,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f1ba04"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.22655,
+            "posY": 1.65200233,
+            "posZ": -1.723738,
+            "rotX": -0.0005538005,
+            "rotY": 90.02357,
+            "rotZ": 0.000110073226,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Glen Elendra",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 109,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "318751"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.571077,
+            "posY": 1.66162992,
+            "posZ": -1.27688515,
+            "rotX": 359.9934,
+            "rotY": 89.9905243,
+            "rotZ": 0.0215185266,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Grand Ossuary",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 108,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "74f3cb"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.691525,
+            "posY": 1.6713289,
+            "posZ": -1.33344662,
+            "rotX": 0.00112016767,
+            "rotY": 90.02585,
+            "rotZ": -0.00116535614,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Grove of the Dreampods",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 107,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3e697d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.60095263,
+            "posY": 1.68098044,
+            "posZ": -1.35199308,
+            "rotX": 0.002587948,
+            "rotY": 89.992485,
+            "rotZ": 0.0250632167,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Hedron Fields of Agadeem",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 106,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "594317"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.018006,
+            "posY": 1.69075251,
+            "posZ": -1.00145769,
+            "rotX": 359.973724,
+            "rotY": 89.97088,
+            "rotZ": 0.0265356824,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Jund",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 105,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "6f40be"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.26943874,
+            "posY": 1.70032954,
+            "posZ": -1.15012145,
+            "rotX": 359.993225,
+            "rotY": 90.000206,
+            "rotZ": 0.00254458142,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Kessig",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 104,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "44fa13"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.3532505,
+            "posY": 1.70989513,
+            "posZ": -1.34178364,
+            "rotX": 359.993378,
+            "rotY": 90.03195,
+            "rotZ": 0.0414754972,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Kharasha Foothills",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 103,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "05414b"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.552117,
+            "posY": 1.71957982,
+            "posZ": -1.37315333,
+            "rotX": 359.972961,
+            "rotY": 90.03102,
+            "rotZ": 359.969757,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Kilnspire District",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 102,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "24addf"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.279439,
+            "posY": 1.729298,
+            "posZ": -1.25389338,
+            "rotX": -0.0007881336,
+            "rotY": 90.02975,
+            "rotZ": -0.00194942334,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Lair of the Ashen Idol",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 101,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "http://i.imgur.com/03dy6kN.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b5553d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.81298065,
+            "posY": 1.73877871,
+            "posZ": -1.15487909,
+            "rotX": 359.97937,
+            "rotY": 89.88433,
+            "rotZ": 0.072806485,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Nephalia",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 268,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "62d569"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.850088,
+            "posY": 1.74847937,
+            "posZ": -1.06326532,
+            "rotX": 0.0108794542,
+            "rotY": 89.93787,
+            "rotZ": 0.065176256,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Prahv",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 263,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c6fb9b"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.39176941,
+            "posY": 1.75825918,
+            "posZ": -1.31967282,
+            "rotX": 359.98822,
+            "rotY": 89.9389343,
+            "rotZ": 0.07531861,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Takenuma",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 559,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "48011a"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.584804,
+            "posY": 1.76790535,
+            "posZ": -1.31834149,
+            "rotX": 0.00463389326,
+            "rotY": 89.9493561,
+            "rotZ": 0.07036294,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Stensia",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 260,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "41bbae"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.28231668,
+            "posY": 1.77760577,
+            "posZ": -1.545455,
+            "rotX": 359.992035,
+            "rotY": 89.99852,
+            "rotZ": -0.00118773163,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Mount Keralia",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 500,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f16abb"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.736859,
+            "posY": 1.78706121,
+            "posZ": -1.158705,
+            "rotX": 359.9807,
+            "rotY": 90.0060349,
+            "rotZ": 0.027658822,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Quicksilver Sea",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 562,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e5dd43"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.47089767,
+            "posY": 1.79606462,
+            "posZ": -0.8119855,
+            "rotX": 359.9276,
+            "rotY": 90.04466,
+            "rotZ": 0.00744829653,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Norn's Dominion",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 267,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d01e95"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.00545835,
+            "posY": 1.80646241,
+            "posZ": -0.8604803,
+            "rotX": -0.00358579354,
+            "rotY": 90.02479,
+            "rotZ": 0.0185406525,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Selesnya Loft Gardens",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 261,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "33347f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.26161051,
+            "posY": 1.81582987,
+            "posZ": -0.8843902,
+            "rotX": 359.985168,
+            "rotY": 90.0477,
+            "rotZ": 0.04559866,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Orochi Colony",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 265,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5556fb"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.22721624,
+            "posY": 1.82580352,
+            "posZ": -1.24188924,
+            "rotX": -0.005024594,
+            "rotY": 90.04333,
+            "rotZ": 0.01787588,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Truga Jungle",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 556,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f6cf26"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.386456,
+            "posY": 1.83539224,
+            "posZ": -1.1295507,
+            "rotX": 359.991638,
+            "rotY": 90.00254,
+            "rotZ": 0.0110775325,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Stairs to Infinity",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 553,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "dec062"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.443553,
+            "posY": 1.84517717,
+            "posZ": -0.470840156,
+            "rotX": 359.9747,
+            "rotY": 90.0204,
+            "rotZ": 0.0866370946,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Talon Gates",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 558,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "943d5f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.6051,
+            "posY": 1.85484886,
+            "posZ": -1.10626757,
+            "rotX": 359.993225,
+            "rotY": 89.99368,
+            "rotZ": 0.00303796516,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Windriddle Palaces",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 555,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "787b5d"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.84106159,
+            "posY": 1.86471176,
+            "posZ": -1.396686,
+            "rotX": 359.977356,
+            "rotY": 89.93102,
+            "rotZ": 0.0533254147,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "The Zephyr Maze",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 554,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0ede85"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -5.57682657,
+            "posY": 1.87420237,
+            "posZ": -1.43321443,
+            "rotX": -0.0018086253,
+            "rotY": 89.99428,
+            "rotZ": 0.00284565613,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Trail of the Mage-Rings",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 557,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://i.imgur.com/5TQtwNY.jpg",
+              "BackURL": "https://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3769bc"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.28047848,
+            "posY": 1.88274717,
+            "posZ": -0.789244354,
+            "rotX": 359.949127,
+            "rotY": 89.86779,
+            "rotZ": 0.103119619,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Onakke Catacomb",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 266,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7ba7c8"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.106313,
+            "posY": 1.89329207,
+            "posZ": -0.9198642,
+            "rotX": 359.9872,
+            "rotY": 90.02497,
+            "rotZ": 0.0167108718,
+            "scaleX": 1.20468616,
+            "scaleY": 1.0,
+            "scaleZ": 1.20468616
+          },
+          "Nickname": "Orzhova",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 264,
+          "SidewaysCard": true,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "http://i.imgur.com/scueIlP.jpg",
+              "BackURL": "http://i.imgur.com/knLU2Lx.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "be0efc"
+        }
+      ],
+      "GUID": "47ee11"
+    }
+  ],
+  "TabStates": {}
+}
